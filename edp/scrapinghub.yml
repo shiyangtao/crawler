@@ -1,0 +1,4 @@
+endpoints:
+  default: http://10.3.0.17:6800/
+projects:
+  default: edp
